@@ -14,7 +14,8 @@ A directory application created for Wesleyan College to manage faculty and staff
 ## **Getting Started**
 
 Simply click on the GitHub Pages link to access the directory:
-[Wesleyan College Directory](https://anupamabhatta.github.io/college-directory/).
+[College Directory](https://anupamabhatta.github.io/college-directory/)
+
 Alternatively, open `index.html` in any web browser—no installation required.
 
 ## **Technologies Used**
