@@ -1,9 +1,9 @@
 
-# **Wesleyan College Directory**
+# **College Directory**
 
 ## **Description**
 
-A directory app for Wesleyan College to view and manage faculty and staff listings. Users can easily add, sort, edit, or delete entries for streamlined management.
+A directory application created for Wesleyan College to manage faculty and staff listings. Users can easily view, add, sort, edit, or delete entries for streamlined management of college staff and faculty information.
 
 ## **Features**
 
@@ -13,7 +13,9 @@ A directory app for Wesleyan College to view and manage faculty and staff listin
 
 ## **Getting Started**
 
-Open `index.html` in any web browser—no installation required.
+Simply click on the GitHub Pages link to access the directory:
+[Wesleyan College Directory](https://anupamabhatta.github.io/college-directory/).
+Alternatively, open `index.html` in any web browser—no installation required.
 
 ## **Technologies Used**
 
