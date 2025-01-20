@@ -1,34 +1,33 @@
-# Wesleyan College Directory
 
-![Wesleyan College Directory](images/directory-bg.png)
+# **Wesleyan College Directory**
 
-## Description
+## **Description**
 
-This project is a directory for Wesleyan College, allowing users to view and manage listings for faculty, staff, and other members of the college community. It provides features for adding new listings, sorting existing listings, and editing or deleting listings.
+A directory app for Wesleyan College to view and manage faculty and staff listings. Users can easily add, sort, edit, or delete entries for streamlined management.
 
-## Getting Started
+## **Features**
 
-To view the directory, simply open the HTML file in a web browser. No additional setup or installation is required.
+- **Add New Listings**: Use the **"New"** button to add a faculty or staff member.
+- **Sort Entries**: Sort listings by name, title, phone, or email with one click.
+- **Edit/Delete Listings**: Modify or remove existing entries using intuitive icons.
 
-## Features
+## **Getting Started**
 
-- **Add New Listing Form:** Click the "New" button to add a new listing to the directory.
-- **Sort Listings:** Sort listings by name, title, phone, or email by clicking on the corresponding buttons.
-- **Edit and Delete Listings:** Use the edit and delete icons to modify or remove existing listings.
+Open `index.html` in any web browser—no installation required.
 
-## Technologies Used
+## **Technologies Used**
 
-- HTML
-- CSS (Bootstrap framework)
-- JavaScript (jQuery library)
+- **HTML**: Structure
+- **CSS**: Styling (Bootstrap framework)
+- **JavaScript**: Functionality (jQuery library)
 
-## File Structure
+## **File Structure**
 
-- `index.html`: Main HTML file containing the directory interface.
-- `styles/`: Directory containing CSS files for styling.
-- `scripts/`: Directory containing JavaScript files for functionality.
-- `images/`: Directory containing image assets.
+- `index.html`: Main interface
+- `styles/`: CSS files for styling
+- `scripts/`: JavaScript files for interactivity
+- `images/`: Image assets
 
-## Contributing
+## **Contributing**
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+Contributions are welcome! Open an issue or submit a pull request for enhancements or bug fixes.
