@@ -1,4 +1,3 @@
-
 # **College Directory**
 
 ## **Description**
@@ -26,10 +25,12 @@ Alternatively, open `index.html` in any web browser—no installation required.
 
 ## **File Structure**
 
-- `index.html`: Main interface
-- `styles/`: CSS files for styling
-- `scripts/`: JavaScript files for interactivity
-- `images/`: Image assets
+- `index.html`: Main interface of the college directory
+- `styles/`: Directory containing CSS files for styling
+- `scripts/`: Directory containing JavaScript files for interactivity
+- `images/`: Directory containing image assets used in the directory
+- `fonts/`: Directory containing font files used in the application
+- `.DS_Store`: macOS system file (can be ignored)
 
 ## **Contributing**
 
